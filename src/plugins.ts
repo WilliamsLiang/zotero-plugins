@@ -1626,7 +1626,7 @@ export const plugins: PluginInfoBase[] = [
     repo: 'WilliamsLiang/zotero-skr',
     releases: [
       {
-        targetZoteroVersion: '8',
+        targetZoteroVersion: '9',
         tagName: 'latest',
       },
       {
